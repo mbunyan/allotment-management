@@ -72,4 +72,4 @@ An ad-hoc invoice may be raised when a asset changes rateable value, when asset 
 - Archive compliant
 - Accessibility compliant
 - A4 printable
-- Retain copy or re-producible and auditable alternate file type
+- Retain copy or re-producible and auditable data or file type

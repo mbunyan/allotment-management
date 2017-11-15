@@ -69,4 +69,4 @@ An ad-hoc invoice may be raised when a plot changes rateable value, when plot ch
 - Archive compliant
 - Accessibility compliant
 - A4 printable
-- Retain copy or re-producible and auditable alternate file type
+- Retain copy or re-producible and auditable data or file type
