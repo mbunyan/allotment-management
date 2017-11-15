@@ -1,0 +1,25 @@
+# Description of words and phrases
+
+- Site
+    - Collection of allotment plots, sometimes referred to as a 'field'
+- Allotment provider
+    - the organisation that rents out the allotment plot to the tenant.
+    - Local authority, parish council, private landowner, allotment association or society
+- Allotment authority
+    - a local council with a statutory provision to provide allotments
+- Plot
+    - aka: 'Allotment garden'
+    - Area of land located on a site
+    - Wholly or mainly cultivated by the tenant for the production of vegetables or fruit by themselves and family
+- Asset
+    - Usually shed, greenhouse located on or near plot
+    - Asset is 'owned' by Site Owner or other, and is rented annually
+- Rateable value
+    - Unit size of a plot
+    - Common measures in use are sq. yards, sq. meters, pole or rod
+    - eg. rent X rateable value, £p per unit measured
+- Tenant
+    - aka: 'plot holder'
+    - Person or organisation renting plot(s)
+- Customer
+    - Prospective tenant, recorded in waiting list
