@@ -1,15 +1,15 @@
 -- -----------------------------------------------------
--- Table `allotmentdb`.`shed_greenhouse_asset`
+-- Table `allotmentdb`.`allotment_site_asset`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `allotmentdb`.`shed_greenhouse_asset` ;
+DROP TABLE IF EXISTS `allotmentdb`.`allotment_site_asset` ;
 
-CREATE TABLE IF NOT EXISTS `allotmentdb`.`shed_greenhouse_asset` (
+CREATE TABLE IF NOT EXISTS `allotmentdb`.`allotment_site_asset` (
   `id` INT UNSIGNED NOT NULL,
   `allotment_id` INT UNSIGNED NOT NULL,
   `location` VARCHAR(250) NOT NULL,
   `purchase_date` DATE NULL,
   `asset_cost` DECIMAL(6,2) NOT NULL DEFAULT 0,
-  `annual_rent_value` DECIMAL(5,2) NULL,
+  `rateable_value` DECIMAL(5,2) NULL,
   `description` VARCHAR(250) NULL,
   `condition` VARCHAR(250) NULL,
   `condition_review_date` DATE NULL,
@@ -25,5 +25,5 @@ CREATE TABLE IF NOT EXISTS `allotmentdb`.`shed_greenhouse_asset` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);
 
-CREATE INDEX `fk_allotment_id_idx` ON `allotmentdb`.`shed_greenhouse_asset` (`allotment_id` ASC);
+CREATE INDEX `fk_allotment_id_idx` ON `allotmentdb`.`allotment_site_asset` (`allotment_id` ASC);
 

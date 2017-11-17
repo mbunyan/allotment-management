@@ -1,4 +1,11 @@
-# Site Manager
+# Site Manager stories
+
+## Role
+Site Manager is authorised by Site Owner to manage tenants, plots and assets on a Site. The Site Manager may be delegated responsibility for one or more sites.
+
+Site Owner can also be Site Manager
+
+## Story lines
 
 List tenants, their plots and view contact details
 
@@ -6,7 +13,11 @@ List tenants with rents due, and outstanding payments
 
 Raise bill for rent at any time, and annually
 
-Add new tenant contact information and assign to waiting list on my own or other sites
+Add new prospective tenant contact information and assign to waiting list on my own or other sites
+
+When adding person to waiting list, to discover if name already exists on list, and if they have allotment plot(s) elsewhere.
+
+View waiting list for my own site
 
 Add new tenant contact information and assign to one or more vacant plot
 
@@ -28,5 +39,8 @@ Create new plot, add dimensions, rateable value, location, hazards, artefacts, t
 
 Change dimensions of existing plot, perhaps to divide into smaller units or combine 2 or more plots into one
 
-Add, change, remove the record artefacts on plot like shed, compost bin, greenhouse, tools and related rent to be charged, if any. May include cost and/or current value, repairs and related costs
+Add, change, remove assets and rateable value like shed, compost bin, greenhouse, tools and related rent to be charged, if any. May include cost and/or current value, repairs and related costs
 
+Record invoice payment, or part payment
+
+Cancel an invoice raised by mistake or where tenant disputes demand, or where tenant is claiming discount that had not been previously applied

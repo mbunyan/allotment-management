@@ -19,6 +19,19 @@ Site Owner
     - Terms and conditions
     - Term (period of lease, from/to)
     - Rent
+- Dates
+    - Site opened and closed
+    - Established date
+- Services
+    - Water supply contract
+    - Power supply contract
+- Facilities
+    - Water well or pump
+    - Windmill
+    - Toilet
+    - Other corporate owned assets, buildings
+- Significant features
+    - For example pond or lake, trees
 - Documents
     - Related documents
     - Pictures and/or film

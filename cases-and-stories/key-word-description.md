@@ -3,7 +3,7 @@
 - Site
     - Collection of allotment plots, sometimes referred to as a 'field'
 - Allotment provider
-    - the organisation that rents out the allotment plot to the tenant.
+    - the organisation that rents out the allotment site to tenants.
     - Local authority, parish council, private landowner, allotment association or society
 - Allotment authority
     - a local council with a statutory provision to provide allotments

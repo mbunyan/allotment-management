@@ -1,9 +1,9 @@
 -- -----------------------------------------------------
--- Table `allotmentdb`.`shed_greenhouse_rent`
+-- Table `allotmentdb`.`allotment_site_asset_rent`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `allotmentdb`.`shed_greenhouse_rent` ;
+DROP TABLE IF EXISTS `allotmentdb`.`allotment_site_asset_rent` ;
 
-CREATE TABLE IF NOT EXISTS `allotmentdb`.`shed_greenhouse_rent` (
+CREATE TABLE IF NOT EXISTS `allotmentdb`.`allotment_site_asset_rent` (
   `id` INT UNSIGNED NOT NULL,
   `asset_id` INT UNSIGNED NOT NULL,
   `tenant_id` INT UNSIGNED NOT NULL,
@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS `allotmentdb`.`shed_greenhouse_rent` (
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_asset_id`
     FOREIGN KEY (`asset_id`)
-    REFERENCES `allotmentdb`.`shed_greenhouse_asset` (`id`)
+    REFERENCES `allotmentdb`.`allotment_site_asset` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_customer_contact_customer`
@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS `allotmentdb`.`shed_greenhouse_rent` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);
 
-CREATE INDEX `fk_customer_contact_customer_idx` ON `allotmentdb`.`shed_greenhouse_rent` (`tenant_id` ASC);
+CREATE INDEX `fk_customer_contact_customer_idx` ON `allotmentdb`.`allotment_site_asset_rent` (`tenant_id` ASC);
 
-CREATE INDEX `fk_asset_id_idx` ON `allotmentdb`.`shed_greenhouse_rent` (`asset_id` ASC);
+CREATE INDEX `fk_asset_id_idx` ON `allotmentdb`.`allotment_site_asset_rent` (`asset_id` ASC);
 
