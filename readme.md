@@ -17,7 +17,7 @@ See also User Stories and Use Cases.
 - Record tenants
 - Record rent payments
 - Record correspondence
-- Upload photo and/or film
+- Upload photo and/or film associated with a site or plot
 - Various reports
 - Public view of site locations and vacancies
 - Public application for tenancy

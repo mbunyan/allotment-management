@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS `allotmentdb`.`customer_contact` (
   `created_at` INT(11) UNSIGNED NOT NULL,
   `updated_at` INT(11) UNSIGNED NOT NULL,
   `soft_delete` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0,
-  `chnage_reason` VARCHAR(200) NOT NULL DEFAULT 'new',
+  `change_reason` VARCHAR(200) NOT NULL DEFAULT 'new',
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_customer_contact_customer`
     FOREIGN KEY (`customer_id`)

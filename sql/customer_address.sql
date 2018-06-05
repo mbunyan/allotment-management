@@ -7,7 +7,7 @@ DROP TABLE IF EXISTS `allotmentdb`.`customer_address` ;
 CREATE TABLE IF NOT EXISTS `allotmentdb`.`customer_address` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
   `customer_id` INT UNSIGNED NOT NULL,
-  `invoice_address` TINYINT(1) UNSIGNED NULL DEFAULT 0,
+  `primary_address` TINYINT(1) UNSIGNED NULL DEFAULT 0,
   `address_type_code` VARCHAR(45) NULL,
   `line_1` VARCHAR(100) NOT NULL,
   `line_2` VARCHAR(100) NULL DEFAULT NULL,

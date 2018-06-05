@@ -1,0 +1,48 @@
+# Glossary of Terms
+Description of words and phrases from Users and used in service
+
+- Allotment Site
+    - Collection of allotment plots, sometimes referred to as a 'field'
+- Allotment provider
+    - the organisation that rents out the allotment site to tenants.
+    - Local authority, parish council, private landowner
+- Allotment authority
+    - a local council with a statutory provision to provide allotments
+- Site Manager
+    - Person appointed by Allotment provider
+    - Normally acts as Agent for collection of rent and renting of plots
+- Allotment Lessee
+    - Club, Society or some constituted organisation to whom a lease has been granted by Allotment provider
+    - Members of organisation are normally tenants of Site
+- Plot
+    - aka: 'Allotment garden'
+    - Area of land located on a site
+    - Wholly or mainly cultivated by the tenant for the production of vegetables or fruit by themselves and family
+- Asset
+    - Usually shed, greenhouse located on or near plot
+    - Asset is 'owned' by Site Owner or other, and is rented annually
+- Rateable value
+    - Unit size of a plot
+    - Common measures in use are sq. yards, sq. meters, pole or rod
+    - eg. rent X rateable value, £p per unit measured
+- Tenant
+    - aka: 'plot holder'
+    - Person or organisation renting plot(s)
+- Customer
+    - Tenant, Co-worker or Prospective tenant recorded in waiting list
+- Co-worker
+    - Person helping tenant with cultivation of plot
+    - Family member or friend
+    - Maybe co-signature of tenancy
+- Invoice
+    - Annual demand to tenant for rent of plot and/or asset
+    - Ad-hoc demand to tenant for rent of plot and/or asset
+- Rental year
+    - Normally from 1st October
+    - Normally allowed 40 days grace period for payment
+- Notice
+    - Notice of non-cultivation
+    - Notice of path care required
+    - Notice of rubbish or debris
+    - Non-payment of rent
+    - To quit, various reasons
