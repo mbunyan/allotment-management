@@ -3,13 +3,13 @@
 ## Role
 Site Owner is:
 - Allotment provider
-    - the organisation that rents out the allotment site to tenants.
+    - the person or organisation that owns land and rents out the allotment site to tenants.
     - Local authority, parish council, private landowner, allotment association or society
+    - Appoints site manager
 Site Owner can also be:
 - Allotment authority
     - a local council with a statutory provision to provide allotments
-
-Site Owner (named delegated person(s)) can also be Site Manager
+    - a site manager, (named delegated person(s)) can also be Site Manager
 
 ## Story lines
 
@@ -25,7 +25,7 @@ Add or change rateable value of plots globally all sites in my control, or per s
 
 Add or change discounts available
 
-Appointing or removing Site Manager of a site
+Appointing or removing [Site Manager](stories-site-manager.md) of a site
 
 Maintain list of site manager contact, and email them all, or get list of addresses and/or email for use in other application like email or correspondence mail merge
 

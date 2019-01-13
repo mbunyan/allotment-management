@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS `allotmentdb`.`plot_picture` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
   `plot_id` INT UNSIGNED NOT NULL,
   `image_path` VARCHAR(250) NOT NULL,
-  `exif_date` DATETIME NULL DEFAULT ON UPDATE CURRENT_TIMESTAMP COMMENT 'Extracted from EXIF image data, if available',
+  `exif_date` DATETIME NULL COMMENT 'Extracted from EXIF image data, if available',
   `created_by` VARCHAR(60) NOT NULL,
   `updated_by` VARCHAR(60) NOT NULL,
   `created_at` INT(11) UNSIGNED NOT NULL,

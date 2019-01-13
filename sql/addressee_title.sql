@@ -1,5 +1,7 @@
 -- -----------------------------------------------------
 -- Table `allotmentdb`.`addressee_title`
+-- admin controlled lookup table
+-- salutation Mr, Mrs, Miss, Ms, Dr, etc
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `allotmentdb`.`addressee_title` ;
 

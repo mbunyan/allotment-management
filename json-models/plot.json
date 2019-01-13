@@ -1,0 +1,53 @@
+[{
+	"document_control": {
+		"_id": "uuid",
+		"type": "plot",
+		"version": "1.0.0.0",
+		"create_time": "date/time Z",
+		"last_update": "date/time Z",
+		"last_change_by": "user_id"
+	  },
+	"allotment_site": "string",
+	"plot_id": "string",
+	"cultivate_width": "number",
+	"cultivate_length": "number",
+	"measure_unit": "yard/metre",
+	"rateable_value": "calculated number",
+	"obstacles":[
+		{"type":"string tree/fence",
+			"description":"string"},
+		{"type":"string tree/fence",
+			"description":"string"}
+		],
+	"structures": [{
+			"type": "string shed, greenhouse",
+			"description": "string"
+		},
+		{
+			"type": "string shed, greenhouse",
+			"description": "string"
+		}
+	],
+	"tenant_current": {
+		"tenant_id": "cross reference to tenant",
+		"date_let": "date"
+	},
+	"tenant_history": [{
+			"tenant_id": "cross reference to tenant",
+			"date_let": "date",
+			"date_surrendered": "date"
+		},
+		{
+			"tenant_id": "cross reference to tenant",
+			"date_let": "date",
+			"date_surrendered": "date"
+		}
+	],
+	"inspection": [{
+		"condition": "string",
+		"instructions": "string",
+		"inspection_date": "date",
+		"review_date": "date"
+	}]
+
+}]

@@ -1,10 +1,8 @@
 # Stories Tenant
 
-Find allotment site near my home
+Signed contract (letting agreement) with allotment owner for one or more plots
 
-Find vacancies in my vicinity
-
-Register on waiting list with one or more allotment sites
+One or more people can sign a contract
 
 Pay rent and provide evidence of age, disability or other circumstance that may be required under terms of letting agreement
 
@@ -14,7 +12,6 @@ Change contact details like address and telephone
 
 Surrender plot, giving notice of leaving
 
-Register complaint about neighbouring plot
+Register complaint about neighbouring plot(s)
 
-Respond to any notices received by me regarding compliance with letting agreement
-
+Respond to any notices received by tenant regarding non-compliance with letting agreement, see also [plot non-compliance](case-plot-non-compliance.md)

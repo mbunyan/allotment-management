@@ -11,6 +11,7 @@ CREATE TABLE IF NOT EXISTS `allotmentdb`.`customer_address` (
   `address_type_code` VARCHAR(45) NULL,
   `line_1` VARCHAR(100) NOT NULL,
   `line_2` VARCHAR(100) NULL DEFAULT NULL,
+  `line_3` VARCHAR(100) NULL DEFAULT NULL,
   `town_city` VARCHAR(100) NOT NULL,
   `county` VARCHAR(60) NULL,
   `country` VARCHAR(100) NOT NULL,

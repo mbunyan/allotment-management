@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS `allotmentdb`.`allotment_site_asset` (
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_allotment_id`
     FOREIGN KEY (`allotment_id`)
-    REFERENCES `allotmentdb`.`allotment` (`id`)
+    REFERENCES `allotmentdb`.`allotment_site` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);
 

@@ -1,0 +1,60 @@
+[{
+  "document_control": {
+    "_id": "uuid",
+    "type": "person",
+    "version": "1.0.0.0",
+    "create_time": "date/time Z",
+    "last_update": "date/time Z",
+    "last_change_by": "user_id"
+  },
+  "title": "Ms",
+  "first_name": "string",
+  "last_name": "string",
+  "suffix_name": "string",
+  "gender": "Female",
+  "birth_date": "date",
+  "address": [
+    { "primary": {
+    "current": true,
+    "effective_date": "15-Mar-2015",
+    "street_address1": "Flat F",
+    "street_address2": "178 Lerdahl Street",
+    "town": "Shihua",
+    "post_code": "W8 7HG"}
+    },
+    { "history": {
+    "current": false,
+    "effective_date": "01-Sep-2000",
+    "street_address1": "236 High Road",
+    "street_address2": "",
+    "town": "Grooth",
+    "post_code": "HA4 3HJ"}}
+  ],
+  "email": [
+  {"primary": {
+  "current": true,
+  "effective date": "15-Mar-2015",
+  "address": "jvasyunkin0@msu.edu"}
+},
+  {"secondary": {
+  "current": true,
+  "effective date": "15-Mar-2015",
+  "address": "jvasyunkin0@haddock.net"}
+},
+  {"secondary": {
+  "current": true,
+  "effective date": "15-Mar-2015",
+  "address": "946758gtr7@haddock.net"}
+},
+  {"history": {
+  "current": false,
+  "effective date": "01-Sep-2000",
+  "address": "jere.vasyunkin0@ross.com"}
+}
+  ],
+  "tenancy": [
+    {"plot": "22", "allotment_site": "Rett gardens", "start_date": "01-10-2000", "end_date": "01-10-2002"},
+    {"plot": "23A", "allotment_site": "Rett gardens", "start_date": "01-10-2002"}
+  ]
+
+}]

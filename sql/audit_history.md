@@ -2,7 +2,7 @@
 
 An audit trail is required.
 
-Retention period 3 years minimum.
+Retention period 7 full years minimum for financial record
 
 ## Significant candidates
 

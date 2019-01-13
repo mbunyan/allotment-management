@@ -1,5 +1,7 @@
 -- -----------------------------------------------------
 -- Table `allotmentdb`.`contact_type`
+-- admin controlled lookup table
+-- postal address, landline phone, mobile phone, email
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `allotmentdb`.`contact_type` ;
 

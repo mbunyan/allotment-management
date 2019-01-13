@@ -1,12 +1,12 @@
 -- -----------------------------------------------------
 -- Table `allotmentdb`.plot_coworker`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `allotmentdb`.plot_coworker` ;
+DROP TABLE IF EXISTS `allotmentdb`.`plot_coworker` ;
 
-CREATE TABLE IF NOT EXISTS `allotmentdb`.plot_coworker` (
+CREATE TABLE IF NOT EXISTS `allotmentdb`.`plot_coworker` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
   `customer_id` INT UNSIGNED NOT NULL,
-  `plot_id` INT NOT NULL,
+  `plot_id` INT UNSIGNED NOT NULL,
   `date_start` DATE NOT NULL,
   `date_ended` DATE NULL DEFAULT NULL,
   `reason_ended` VARCHAR(100) NULL DEFAULT NULL,
@@ -30,6 +30,6 @@ ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4
 COLLATE = utf8mb4_unicode_ci;
 
-CREATE INDEX `fkplot_coworker_customer` ON `allotmentdb`.plot_coworker` (`customer_id` ASC);
+CREATE INDEX `fkplot_coworker_customer` ON `allotmentdb`.`plot_coworker` (`customer_id` ASC);
 
-CREATE INDEX `fkplot_coworker_plot` ON `allotmentdb`.plot_coworker` (`plot_id` ASC);
+CREATE INDEX `fkplot_coworker_plot` ON `allotmentdb`.`plot_coworker` (`plot_id` ASC);

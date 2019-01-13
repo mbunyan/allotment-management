@@ -5,8 +5,8 @@ DROP TABLE IF EXISTS `allotmentdb`.`plot_rent` ;
 
 CREATE TABLE IF NOT EXISTS `allotmentdb`.`plot_rent` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-  `plot_id` INT NOT NULL,
-  `customer_id` INT NOT NULL,
+  `plot_id` INT UNSIGNED NOT NULL,
+  `customer_id` INT UNSIGNED NOT NULL,
   `amount_of_payment` DOUBLE(6,2) UNSIGNED NOT NULL DEFAULT 0 COMMENT 'Payment received',
   `date_due` DATE NOT NULL COMMENT 'Annual renewal date or start date',
   `date_of_payment` DATE NOT NULL,
