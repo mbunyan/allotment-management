@@ -1,4 +1,4 @@
--- -----------------------------------------------------
+﻿-- -----------------------------------------------------
 -- Table `allotmentdb`.`ref_county_borough`
 -- Ward to Local Authority District to County to Region to Country
 -- (December 2017) Lookup in United Kingdom

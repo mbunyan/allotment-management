@@ -1,4 +1,4 @@
-SELECT DISTINCT lad17cd, lad17nm FROM `ref_ons_ward_borough`;
+﻿SELECT DISTINCT lad17cd, lad17nm FROM `ref_ons_ward_borough`;
 
 
 CREATE TABLE `ref_borough` (

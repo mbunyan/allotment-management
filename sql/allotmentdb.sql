@@ -1,4 +1,4 @@
-/*
+﻿/*
  Navicat MySQL Data Transfer
 
  Source Server         : localhost
@@ -9166,13 +9166,13 @@ INSERT INTO `ref_ons_ward_borough` VALUES (7806, 'N08000739', 'Wallace Park', ''
 INSERT INTO `ref_ons_ward_borough` VALUES (7807, 'N08000402', 'Altahullion', '', 'N09000004', 'Causeway Coast and Glens', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7808, 'N08001132', 'Portaferry', '', 'N09000011', 'Ards and North Down', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7809, 'N08001025', 'Kilkeel', '', 'N09000010', 'Newry, Mourne and Down', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (7810, 'S13002605', 'Steòrnabhagh a Deas', '', 'S12000013', 'Na h-Eileanan Siar', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (7810, 'S13002605', 'SteÃ²rnabhagh a Deas', '', 'S12000013', 'Na h-Eileanan Siar', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7811, 'N08000403', 'Atlantic', '', 'N09000004', 'Causeway Coast and Glens', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7812, 'N08000740', 'White Mountain', '', 'N09000007', 'Lisburn and Castlereagh', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7813, 'N08000934', 'Swatragh', '', 'N09000009', 'Mid Ulster', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7814, 'N08001133', 'Portavogie', '', 'N09000011', 'Ards and North Down', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7815, 'N08001026', 'Kilmore', '', 'N09000010', 'Newry, Mourne and Down', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (7816, 'S13002606', 'Steòrnabhagh a Tuath', '', 'S12000013', 'Na h-Eileanan Siar', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (7816, 'S13002606', 'SteÃ²rnabhagh a Tuath', '', 'S12000013', 'Na h-Eileanan Siar', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7817, 'N08000404', 'Ballycastle', '', 'N09000004', 'Causeway Coast and Glens', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7818, 'N08000801', 'Academy', '', 'N09000008', 'Mid and East Antrim', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (7819, 'N08000935', 'Tamlaght O\'Crilly', '', 'N09000009', 'Mid Ulster', '', '', '', '', 'N92000002', 'Northern Ireland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9373,7 +9373,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8013, 'S13002995', 'Cromarty Firth', 
 INSERT INTO `ref_ons_ward_borough` VALUES (8014, 'S13002996', 'Tain and Easter Ross', '', 'S12000017', 'Highland', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8015, 'S13002997', 'Dingwall and Seaforth', '', 'S12000017', 'Highland', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8016, 'S13002998', 'Black Isle', '', 'S12000017', 'Highland', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8017, 'S13002999', 'Eilean á Chèo', '', 'S12000017', 'Highland', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8017, 'S13002999', 'Eilean Ã¡ ChÃ¨o', '', 'S12000017', 'Highland', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8018, 'S13003000', 'Caol and Mallaig', '', 'S12000017', 'Highland', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8019, 'S13003001', 'Aird and Loch Ness', '', 'S12000017', 'Highland', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8020, 'S13003002', 'Inverness West', '', 'S12000017', 'Highland', '', '', '', '', 'S92000003', 'Scotland', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9477,7 +9477,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8117, 'W05000124', 'Eirias', 'Eirias'
 INSERT INTO `ref_ons_ward_borough` VALUES (8118, 'W05000125', 'Gele', 'Gele', 'W06000003', 'Conwy', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8119, 'W05000126', 'Glyn', 'Glyn', 'W06000003', 'Conwy', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8120, 'W05000127', 'Gogarth', 'Gogarth', 'W06000003', 'Conwy', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8121, 'W05000128', 'Gower', 'Gŵyr', 'W06000003', 'Conwy', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8121, 'W05000128', 'Gower', 'GÅµyr', 'W06000003', 'Conwy', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8122, 'W05000129', 'Kinmel Bay', 'Bae Cinmel', 'W06000003', 'Conwy', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8123, 'W05000130', 'Llanddulas', 'Llanddulas', 'W06000003', 'Conwy', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8124, 'W05000131', 'Llandrillo yn Rhos', 'Llandrillo yn Rhos', 'W06000003', 'Conwy', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9609,8 +9609,8 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8249, 'W05000981', 'Aethwy', 'Aethwy'
 INSERT INTO `ref_ons_ward_borough` VALUES (8250, 'W05000982', 'Bro Aberffraw', 'Bro Aberffraw', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8251, 'W05000983', 'Bro Rhosyr', 'Bro Rhosyr', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8252, 'W05000984', 'Caergybi', 'Caergybi', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8253, 'W05000985', 'Canolbarth Môn', 'Canolbarth Môn', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8254, 'W05000986', 'Llifôn', 'Llifôn', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8253, 'W05000985', 'Canolbarth MÃ´n', 'Canolbarth MÃ´n', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8254, 'W05000986', 'LlifÃ´n', 'LlifÃ´n', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8255, 'W05000987', 'Lligwy', 'Lligwy', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8256, 'W05000988', 'Seiriol', 'Seiriol', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8257, 'W05000989', 'Talybolion', 'Talybolion', 'W06000001', 'Isle of Anglesey', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9761,7 +9761,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8401, 'W05000374', 'Llanarth', 'Llana
 INSERT INTO `ref_ons_ward_borough` VALUES (8402, 'W05000375', 'Llanbadarn Fawr-Padarn', 'Llanbadarn Fawr - Padarn', 'W06000008', 'Ceredigion', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8403, 'W05000544', 'Pontardulais', 'Pontarddulais', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8404, 'W05000376', 'Llanbadarn Fawr-Sulien', 'Llanbadarn Fawr - Sulien', 'W06000008', 'Ceredigion', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8405, 'W05000377', 'Llandyfriog', 'Llandyfrïog', 'W06000008', 'Ceredigion', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8405, 'W05000377', 'Llandyfriog', 'LlandyfrÃ¯og', 'W06000008', 'Ceredigion', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8406, 'W05000545', 'St. Thomas', 'St. Thomas', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8407, 'W05000378', 'Llandysilio-gogo', 'Llandysiliogogo', 'W06000008', 'Ceredigion', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8408, 'W05000546', 'Sketty', 'Sgeti', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9799,14 +9799,14 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8439, 'W05000413', 'Haverfordwest: Pr
 INSERT INTO `ref_ons_ward_borough` VALUES (8440, 'W05000414', 'Hundleton', 'Hundleton', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8441, 'W05000415', 'Johnston', 'Johnston', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8442, 'W05000417', 'Lampeter Velfrey', 'Llanbedr Efelffre', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8443, 'W05000418', 'Lamphey', 'Llandyfái', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8443, 'W05000418', 'Lamphey', 'LlandyfÃ¡i', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8444, 'W05000419', 'Letterston', 'Treletert', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8445, 'W05000421', 'Llanrhian', 'Llanrhian', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8446, 'W05000422', 'Maenclochog', 'Maenclochog', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8447, 'W05000423', 'Manorbier', 'Maenorbŷr', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8447, 'W05000423', 'Manorbier', 'MaenorbÅ·r', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8448, 'W05000425', 'Merlin\'s Bridge', 'Pont Fadlen', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8449, 'W05000426', 'Milford: Central', 'Aberdaugleddau - Canol', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8450, 'W05000475', 'Glanymor', 'Glanymôr', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8450, 'W05000475', 'Glanymor', 'GlanymÃ´r', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8451, 'W05000427', 'Milford: East', 'Aberdaugleddau - Dwyrain', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8452, 'W05000428', 'Milford: Hakin', 'Aberdaugleddau - Hakin', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8453, 'W05000429', 'Milford: Hubberston', 'Aberdaugleddau - Hubberston', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9849,7 +9849,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8489, 'W05000482', 'Llanboidy', 'Llan
 INSERT INTO `ref_ons_ward_borough` VALUES (8490, 'W05000483', 'Llanddarog', 'Llanddarog', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8491, 'W05000484', 'Llandeilo', 'Llandeilo', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8492, 'W05000485', 'Llandovery', 'Llanymddyfri', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8493, 'W05000486', 'Llandybie', 'Llandybïe', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8493, 'W05000486', 'Llandybie', 'LlandybÃ¯e', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8494, 'W05000487', 'Llanegwad', 'Llanegwad', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8495, 'W05000488', 'Llanfihangel Aberbythych', 'Llanfihangel Aberbythych', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8496, 'W05000489', 'Llanfihangel-ar-Arth', 'Llanfihangel-ar-Arth', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9868,28 +9868,28 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8508, 'W05000502', 'Penygroes', 'Pen-
 INSERT INTO `ref_ons_ward_borough` VALUES (8509, 'W05000503', 'Pontamman', 'Pontaman', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8510, 'W05000504', 'Pontyberem', 'Pontyberem', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8511, 'W05000505', 'Quarter Bach', 'Cwarter Bach', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8512, 'W05000506', 'St. Clears', 'Sanclêr', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8512, 'W05000506', 'St. Clears', 'SanclÃªr', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8513, 'W05000507', 'St. Ishmael', 'Llanismel', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8514, 'W05000508', 'Saron', 'Saron', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8515, 'W05000509', 'Swiss Valley', 'Swiss Valley', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8516, 'W05000510', 'Trelech', 'Tre-lech', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8517, 'W05000511', 'Trimsaran', 'Trimsaran', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8518, 'W05000512', 'Tycroes', 'Tŷ-croes', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8518, 'W05000512', 'Tycroes', 'TÅ·-croes', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8519, 'W05000513', 'Tyisha', 'Tyisa', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8520, 'W05000514', 'Whitland', 'Hendy-Gwyn ar Daf', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8521, 'W05001002', 'Bynea', 'Bynea', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8522, 'W05001003', 'Llangennech', 'Llangennech', 'W06000010', 'Carmarthenshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8523, 'W05000524', 'Gower', 'Gŵyr', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8523, 'W05000524', 'Gower', 'GÅµyr', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8524, 'W05000525', 'Gowerton', 'Tregwyr', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8525, 'W05000526', 'Killay North', 'Cilâ - Gogledd', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8526, 'W05000527', 'Killay South', 'Cilâ - De', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8525, 'W05000526', 'Killay North', 'CilÃ¢ - Gogledd', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8526, 'W05000527', 'Killay South', 'CilÃ¢ - De', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8527, 'W05000532', 'Lower Loughor', 'Casllwchwr Isaf', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8528, 'W05000533', 'Mawr', 'Mawr', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8529, 'W05000534', 'Mayals', 'Mayals', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8530, 'W05000537', 'Newton', 'Newton', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8531, 'W05000538', 'Oystermouth', 'Ystumllwynarth', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8532, 'W05000151', 'Corwen', 'Corwen', 'W06000004', 'Denbighshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8533, 'W05000209', 'Hawarden', 'Penarlâg', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8533, 'W05000209', 'Hawarden', 'PenarlÃ¢g', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8534, 'W05000263', 'Llay', 'Llai', 'W06000006', 'Wrexham', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8535, 'W05000211', 'Holywell Central', 'Treffynnon - Canol', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8536, 'W05000965', 'Dunvant', 'Dynfant', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9912,7 +9912,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8552, 'W05000592', 'Ystalyfera', 'Yst
 INSERT INTO `ref_ons_ward_borough` VALUES (8553, 'W05000216', 'Llanfynydd', 'Llanfynydd', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8554, 'W05000268', 'New Broughton', 'New Broughton', 'W06000006', 'Wrexham', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8555, 'W05000444', 'Pembroke: St. Michael', 'Penfro - Sant Mihangel', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8556, 'W05000969', 'Landore', 'Glandŵr', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8556, 'W05000969', 'Landore', 'GlandÅµr', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8557, 'W05001027', 'Baglan', 'Baglan', 'W06000012', 'Neath Port Talbot', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8558, 'W05000217', 'Mancot', 'Mancot', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8559, 'W05000152', 'Denbigh Central', 'Dinbych - Canol', 'W06000004', 'Denbighshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -9976,7 +9976,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8616, 'W05001031', 'Onllwyn', 'Onllwy
 INSERT INTO `ref_ons_ward_borough` VALUES (8617, 'W05000222', 'Mostyn', 'Mostyn', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8618, 'W05000973', 'Mynyddbach', 'Mynydd-bach', 'W06000011', 'Swansea', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8619, 'W05000450', 'Saundersfoot', 'Saundersfoot', 'W06000009', 'Pembrokeshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8620, 'W05000157', 'Llanarmon-yn-Ial/Llandegla', 'Llanarmon-yn-Iâl/Llandegla', 'W06000004', 'Denbighshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8620, 'W05000157', 'Llanarmon-yn-Ial/Llandegla', 'Llanarmon-yn-IÃ¢l/Llandegla', 'W06000004', 'Denbighshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8621, 'W05001032', 'Port Talbot', 'Port Talbot', 'W06000012', 'Neath Port Talbot', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8622, 'W05001033', 'Sandfields East', 'Sandfields - Dwyrain', 'W06000012', 'Neath Port Talbot', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8623, 'W05001034', 'Seven Sisters', 'Blaendulais', 'W06000012', 'Neath Port Talbot', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10094,7 +10094,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8734, 'W05001005', 'Halkyn', 'Helygai
 INSERT INTO `ref_ons_ward_borough` VALUES (8735, 'W05000561', 'Cadoxton', 'Llangatwg', 'W06000012', 'Neath Port Talbot', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8736, 'W05001006', 'Higher Kinnerton', 'Kinnerton Uchaf', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8737, 'W05000562', 'Cimla', 'Cimla', 'W06000012', 'Neath Port Talbot', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8738, 'W05001007', 'Hope', 'Yr Hôb', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8738, 'W05001007', 'Hope', 'Yr HÃ´b', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8739, 'W05000563', 'Coedffranc Central', 'Coed-ffranc - Canol', 'W06000012', 'Neath Port Talbot', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8740, 'W05001008', 'Leeswood', 'Coed-llai', 'W06000005', 'Flintshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8741, 'W05000564', 'Coedffranc North', 'Coed-ffranc - Gogledd', 'W06000012', 'Neath Port Talbot', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10172,7 +10172,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8812, 'W05000722', 'Bargoed', 'Bargod
 INSERT INTO `ref_ons_ward_borough` VALUES (8813, 'W05000831', 'West End', 'West End', 'W06000021', 'Monmouthshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8814, 'W05001016', 'Trowbridge', 'Trowbridge', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8815, 'W05000318', 'Llanfihangel', 'Llanfihangel', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8816, 'W05000783', 'Pontypool', 'Pont-y-pŵl', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8816, 'W05000783', 'Pontypool', 'Pont-y-pÅµl', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8817, 'W05000723', 'Bedwas, Trethomas and Machen', 'Bedwas, Tretomos a Machen', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8818, 'W05000832', 'Wyesham', 'Wyesham', 'W06000021', 'Monmouthshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8819, 'W05000655', 'Aberaman North', 'Aberaman - Gogledd', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10185,12 +10185,12 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8825, 'W05000320', 'Llangattock', 'Ll
 INSERT INTO `ref_ons_ward_borough` VALUES (8826, 'W05000787', 'Trevethin', 'Trefddyn', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8827, 'W05000726', 'Crosskeys', 'Crosskeys', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8828, 'W05000834', 'Alway', 'Alway', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8829, 'W05000658', 'Aberdare East', 'Aberdâr - Dwyrain', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8829, 'W05000658', 'Aberdare East', 'AberdÃ¢r - Dwyrain', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8830, 'W05000321', 'Llangors', 'Llan-gors', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8831, 'W05000788', 'Two Locks', 'Two Locks', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8832, 'W05000728', 'Darren Valley', 'Cwm Darran', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8833, 'W05000835', 'Beechwood', 'Beechwood', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8834, 'W05000659', 'Aberdare West/Llwydcoed', 'Aberdâr Gorllewin / Llwytgred', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8834, 'W05000659', 'Aberdare West/Llwydcoed', 'AberdÃ¢r Gorllewin / Llwytgred', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8835, 'W05000661', 'Brynna', 'Brynna', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8836, 'W05000663', 'Cilfynydd', 'Cilfynydd', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8837, 'W05000664', 'Cwm Clydach', 'Cwm Clydach', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10239,7 +10239,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8879, 'W05001023', 'Llantwit Fardre',
 INSERT INTO `ref_ons_ward_borough` VALUES (8880, 'W05001024', 'Mountain Ash East', 'Aberpennar - Dwyrain', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8881, 'W05001025', 'Talbot Green', 'Tonysguboriau', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8882, 'W05001026', 'Tyn-y-nant', 'Ty\'n-y-nant', 'W06000016', 'Rhondda Cynon Taf', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8883, 'W05000628', 'Pyle', 'Y Pîl', 'W06000013', 'Bridgend', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8883, 'W05000628', 'Pyle', 'Y PÃ®l', 'W06000013', 'Bridgend', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8884, 'W05000790', 'Wainfelin', 'Wainfelin', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8885, 'W05000729', 'Gilfach', 'Gilfach', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8886, 'W05000992', 'Abersychan', 'Abersychan', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10269,7 +10269,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8909, 'W05000328', 'Llanwrtyd Wells',
 INSERT INTO `ref_ons_ward_borough` VALUES (8910, 'W05000998', 'Pontnewydd', 'Pontnewydd', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8911, 'W05000745', 'St. Cattwg', 'Catwg Sant', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8912, 'W05000842', 'Llanwern', 'Llan-wern', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8913, 'W05000329', 'Llanyre', 'Llanllŷr', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8913, 'W05000329', 'Llanyre', 'LlanllÅ·r', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8914, 'W05000999', 'Snatchwood', 'Snatchwood', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8915, 'W05000748', 'Twyn Carno', 'Twyn Carno', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8916, 'W05000843', 'Malpas', 'Malpas', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10278,7 +10278,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (8918, 'W05001000', 'St. Dials', 'St. 
 INSERT INTO `ref_ons_ward_borough` VALUES (8919, 'W05000749', 'Ynysddu', 'Ynys-ddu', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8920, 'W05000844', 'Marshfield', 'Maerun', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8921, 'W05000331', 'Maescar/Llywel', 'Maes-car/Llywel', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (8922, 'W05001001', 'Upper Cwmbran', 'Cwmbrân Uchaf', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (8922, 'W05001001', 'Upper Cwmbran', 'CwmbrÃ¢n Uchaf', 'W06000020', 'Torfaen', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8923, 'W05000750', 'Ystrad Mynach', 'Ystrad Mynach', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8924, 'W05000845', 'Pillgwenlly', 'Pilgwenlli', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (8925, 'W05000332', 'Meifod', 'Meifod', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10365,7 +10365,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (9005, 'W05000828', 'Thornwell', 'Thor
 INSERT INTO `ref_ons_ward_borough` VALUES (9006, 'W05000829', 'Trellech United', 'Tryleg Unedig', 'W06000021', 'Monmouthshire', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9007, 'W05000896', 'Brackla', 'Bracla', 'W06000013', 'Bridgend', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9008, 'W05000921', 'Llanbradach', 'Llanbradach', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (9009, 'W05000847', 'Rogerstone', 'Tŷ Du', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (9009, 'W05000847', 'Rogerstone', 'TÅ· Du', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9010, 'W05000897', 'Bryntirion, Laleston and Merthyr Mawr', 'Bryntirion, Laleston a Merthyr Mawr', 'W06000013', 'Bridgend', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9011, 'W05000922', 'Maesycwmmer', 'Maes-y-cwmwr', 'W06000018', 'Caerphilly', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9012, 'W05000848', 'St. Julians', 'Sain Silian', 'W06000022', 'Newport', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10381,7 +10381,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (9021, 'W05000638', 'Cowbridge', 'Y Bo
 INSERT INTO `ref_ons_ward_borough` VALUES (9022, 'W05000640', 'Dyfan', 'Dyfan', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9023, 'W05000641', 'Gibbonsdown', 'Gibbonsdown', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9024, 'W05000642', 'Illtyd', 'Illtud', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (9025, 'W05000644', 'Llandow/Ewenny', 'Llandŵ/Ewenni', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (9025, 'W05000644', 'Llandow/Ewenny', 'LlandÅµ/Ewenni', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9026, 'W05000645', 'Llantwit Major', 'Llanilltud Fawr', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9027, 'W05000646', 'Peterston-super-Ely', 'Llanbedr-y-Fro', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9028, 'W05000648', 'Rhoose', 'Y Rhws', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10389,7 +10389,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (9029, 'W05000649', 'St. Athan', 'Sain
 INSERT INTO `ref_ons_ward_borough` VALUES (9030, 'W05000650', 'St. Augustine\'s', 'St. Augustine\'s', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9031, 'W05000651', 'St. Bride\'s Major', 'Sant-y-Brid', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9032, 'W05000652', 'Stanwell', 'Stanwell', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (9033, 'W05000654', 'Wenvoe', 'Gwenfô', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (9033, 'W05000654', 'Wenvoe', 'GwenfÃ´', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9034, 'W05000932', 'Dinas Powys', 'Dinas Powys', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9035, 'W05000933', 'Llandough', 'Llandoche', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9036, 'W05000934', 'Plymouth', 'Plymouth', 'W06000014', 'Vale of Glamorgan', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10400,7 +10400,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (9040, 'W05000855', 'Caerau', 'Caerau'
 INSERT INTO `ref_ons_ward_borough` VALUES (9041, 'W05000856', 'Canton', 'Treganna', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9042, 'W05000857', 'Cathays', 'Cathays', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9043, 'W05000858', 'Creigiau/St. Fagans', 'Creigiau/Sain Ffagan', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (9044, 'W05000860', 'Ely', 'Trelái', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (9044, 'W05000860', 'Ely', 'TrelÃ¡i', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9045, 'W05000861', 'Fairwater', 'Tyllgoed', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9046, 'W05000862', 'Gabalfa', 'Gabalfa', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9047, 'W05000863', 'Grangetown', 'Grangetown', 'W06000015', 'Cardiff', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10446,7 +10446,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (9086, 'W05000290', 'Builth', 'Llanfai
 INSERT INTO `ref_ons_ward_borough` VALUES (9087, 'W05000765', 'Six Bells', 'Six Bells', 'W06000019', 'Blaenau Gwent', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9088, 'W05000291', 'Bwlch', 'Bwlch', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9089, 'W05000766', 'Tredegar Central and West', 'Tredegar - Canol a Gorllewin', 'W06000019', 'Blaenau Gwent', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (9090, 'W05000292', 'Caersws', 'Caersŵs', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (9090, 'W05000292', 'Caersws', 'CaersÅµs', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9091, 'W05000936', 'Badminton', 'Badminton', 'W06000019', 'Blaenau Gwent', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9092, 'W05000293', 'Churchstoke', 'Yr Ystog', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9093, 'W05000937', 'Beaufort', 'Cendl', 'W06000019', 'Blaenau Gwent', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10458,7 +10458,7 @@ INSERT INTO `ref_ons_ward_borough` VALUES (9098, 'W05000296', 'Disserth and Trec
 INSERT INTO `ref_ons_ward_borough` VALUES (9099, 'W05000940', 'Cwm', 'Cwm', 'W06000019', 'Blaenau Gwent', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9100, 'W05000297', 'Dolforwyn', 'Dolforwyn', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9101, 'W05000941', 'Cwmtillery', 'Cwmtyleri', 'W06000019', 'Blaenau Gwent', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
-INSERT INTO `ref_ons_ward_borough` VALUES (9102, 'W05000298', 'Felin-fâch', 'Felin-fâch', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
+INSERT INTO `ref_ons_ward_borough` VALUES (9102, 'W05000298', 'Felin-fÃ¢ch', 'Felin-fÃ¢ch', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9103, 'W05000942', 'Ebbw Vale North', 'Glynebwy - Gogledd', 'W06000019', 'Blaenau Gwent', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9104, 'W05000299', 'Forden', 'Ffordun', 'W06000023', 'Powys', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
 INSERT INTO `ref_ons_ward_borough` VALUES (9105, 'W05000943', 'Ebbw Vale South', 'Glynebwy - De', 'W06000019', 'Blaenau Gwent', '', '', '', '', 'W92000004', 'Wales', 'ONS', 'ONS', 1512086401, 1512086401, 0);
@@ -10566,7 +10566,7 @@ INSERT INTO `tenant` VALUES (43, 'Mr', 'Edward', NULL, 'Pawley', '', 1, 1, NULL,
 INSERT INTO `tenant` VALUES (45, 'Mr', 'Daniel & Aneta', NULL, 'Szczesny', '', 1, 1, NULL, NULL, 'import', 'import', 4294967295, 4294967295, 0, 'import');
 INSERT INTO `tenant` VALUES (47, 'Mr', 'Christopher', NULL, 'Sharpe', '', 1, 1, NULL, NULL, 'import', 'import', 4294967295, 4294967295, 0, 'import');
 INSERT INTO `tenant` VALUES (48, 'Mr', 'Najieb', NULL, 'Al Khatib', '', 1, 1, NULL, NULL, 'import', 'import', 4294967295, 4294967295, 0, 'import');
-INSERT INTO `tenant` VALUES (49, 'Ms', 'Hà', NULL, 'Le', '', 1, 1, NULL, NULL, 'import', 'import', 4294967295, 4294967295, 0, 'import');
+INSERT INTO `tenant` VALUES (49, 'Ms', 'HÃ ', NULL, 'Le', '', 1, 1, NULL, NULL, 'import', 'import', 4294967295, 4294967295, 0, 'import');
 INSERT INTO `tenant` VALUES (50, 'Mr', 'Jeffrey', NULL, 'Elliot', '', 1, 1, NULL, NULL, 'import', 'import', 4294967295, 4294967295, 0, 'import');
 INSERT INTO `tenant` VALUES (54, 'Mr', 'Yanging', NULL, 'Cui', '', 1, 0, NULL, NULL, 'import', 'import', 4294967295, 4294967295, 0, 'import');
 INSERT INTO `tenant` VALUES (55, 'Mr', 'Michael', NULL, 'O\'Neill', '', 1, 1, NULL, NULL, 'import', 'import', 4294967295, 4294967295, 0, 'import');

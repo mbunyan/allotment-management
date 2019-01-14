@@ -1,4 +1,4 @@
--- -----------------------------------------------------
+﻿-- -----------------------------------------------------
 -- Table `allotmentdb`.`allotment_manager_contact`
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `allotmentdb`.`allotment_manager_contact` ;

@@ -1,4 +1,4 @@
-# Customer Master Index (CMI)
+﻿# Customer Master Index (CMI)
 
 The Customer will have one or more services connecting them to Local Government. This implies a Customer Relationship Model (CRM) where Local Government provides many, often discrete, services. Examples include Electoral Register, Local Rates and Social Services. In order to provide some degree of data/information consistency and overview of individual relationships each Customer will (should) have one Master Customer ID.
 

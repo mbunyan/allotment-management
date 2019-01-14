@@ -1,4 +1,4 @@
-# Data structures and SQL statements
+﻿# Data structures and SQL statements
 
 ## Data structures
 For purposes of data segregation, privacy of information and risk management the data for a Site Owner MUST be in a separate database.

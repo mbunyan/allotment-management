@@ -1,4 +1,4 @@
--- -----------------------------------------------------
+﻿-- -----------------------------------------------------
 -- Table `allotmentdb`.`plot_customer`
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `allotmentdb`.`plot_customer` ;
@@ -66,7 +66,7 @@ INNER JOIN allotmentdb.customer ON jubileeroad.`plot-record`.First_Name = allotm
 
 
 /*
-customer, plot, addess
+customer, plot, address
 */
 
 SELECT

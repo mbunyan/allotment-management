@@ -1,4 +1,4 @@
--- -----------------------------------------------------
+﻿-- -----------------------------------------------------
 -- Table `allotmentdb`.`addressee_title`
 -- admin controlled lookup table
 -- salutation Mr, Mrs, Miss, Ms, Dr, etc
