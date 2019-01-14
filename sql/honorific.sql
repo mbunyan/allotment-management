@@ -18,8 +18,8 @@ DEFAULT CHARACTER SET = utf8mb4
 COLLATE = utf8mb4_unicode_ci;
 
 INSERT INTO `allotmentdb`.`addressee_honorific`
-(`honorific`, `created_by`, `updated_by`, `created_at`, `updated_at`) 
-VALUES 
+(`honorific`, `created_by`, `updated_by`, `created_at`, `updated_at`)
+VALUES
 ('Br.','admin','admin',1532435691 ,1532435691),
 ('Dr.','admin','admin',1532435691 ,1532435691),
 ('Fr.','admin','admin',1532435691 ,1532435691),

@@ -30,7 +30,7 @@ IF NOT EXISTS `allotmentdb`.`ref_ons_ward_borough` (
 	PRIMARY KEY (`fid`)
 );
 
-UPDATE `allotmentdb`.`ref_ons_ward_borough` 
+UPDATE `allotmentdb`.`ref_ons_ward_borough`
 SET  `created_by`='ONS',
  `updated_by`='ONS',
  `created_at`='1512086401', -- 1st December 2017

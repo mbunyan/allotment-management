@@ -38,9 +38,9 @@ WHERE first_name = 'Vacant';
 
 SELECT CURRENT_TIMESTAMP();
 
-UPDATE `customer` SET 
-`created_by`='import', 
-`update_by`='import', 
-`created_at`= CURRENT_TIMESTAMP(), 
-`updated_at`= CURRENT_TIMESTAMP(), 
+UPDATE `customer` SET
+`created_by`='import',
+`update_by`='import',
+`created_at`= CURRENT_TIMESTAMP(),
+`updated_at`= CURRENT_TIMESTAMP(),
 `change_reason`='import';

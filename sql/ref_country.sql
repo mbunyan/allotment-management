@@ -18,4 +18,4 @@ SELECT DISTINCT ctry17cd, ctry17nm FROM `ref_ons_ward_borough`;
 
 INSERT INTO `ref_country` (`ctry17cd`, `country_name`)
 SELECT DISTINCT ctry17cd, ctry17nm FROM `ref_ons_ward_borough`;
-  
+
