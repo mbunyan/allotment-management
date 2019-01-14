@@ -14,4 +14,4 @@ CREATE TABLE IF NOT EXISTS `allotmentdb`.`waiting_list` (
   `updated_at` INT(11) UNSIGNED NOT NULL,
   `soft_delete` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0,
   PRIMARY KEY (`id`));
-  
+
