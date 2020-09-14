@@ -6,7 +6,7 @@
 DROP TABLE IF EXISTS `allotmentdb`.`addressee_title` ;
 
 CREATE TABLE IF NOT EXISTS `allotmentdb`.`addressee_title` (
-  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `id` INT(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `title` VARCHAR(20) NOT NULL,
   `created_by` VARCHAR(60) NOT NULL,
   `updated_by` VARCHAR(60) NOT NULL,

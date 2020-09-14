@@ -4,36 +4,34 @@
 -- salutation Mr, Mrs, Miss, Ms, Dr, etc
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `allotmentdb`.`addressee_title` ;
-DROP TABLE IF EXISTS `allotmentdb`.`addressee_honorific` ;
+DROP TABLE IF EXISTS `allotmentdb`.`honorific` ;
 
-CREATE TABLE IF NOT EXISTS `allotmentdb`.`addressee_honorific` (
-  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-  `honorific` VARCHAR(20) NOT NULL,
-  `created_by` VARCHAR(60) NOT NULL,
-  `updated_by` VARCHAR(60) NOT NULL,
-  `created_at` INT(11) UNSIGNED NOT NULL,
-  `updated_at` INT(11) UNSIGNED NOT NULL,
-  `soft_delete` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0,
-  PRIMARY KEY (`id`))
-ENGINE = InnoDB
-DEFAULT CHARACTER SET = utf8mb4
-COLLATE = utf8mb4_unicode_ci;
+CREATE TABLE `allotmentdb`.`honorific` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `prefix` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `created_by` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `updated_by` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `created_at` datetime DEFAULT NULL,
+  `updated_at` datetime DEFAULT NULL,
+  `deleted_at` datetime DEFAULT NULL COMMENT 'Soft delete',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
-INSERT INTO `allotmentdb`.`addressee_honorific`
-(`honorific`, `created_by`, `updated_by`, `created_at`, `updated_at`)
+INSERT INTO `allotmentdb`.`honorific`
+(`prefix`, `created_by`, `updated_by`, `created_at`, `updated_at`)
 VALUES
-('Br.','admin','admin',1532435691 ,1532435691),
-('Dr.','admin','admin',1532435691 ,1532435691),
-('Fr.','admin','admin',1532435691 ,1532435691),
-('Lady','admin','admin',1532435691 ,1532435691),
-('M.','admin','admin',1532435691 ,1532435691),
-('Master','admin','admin',1532435691 ,1532435691),
-('Miss','admin','admin',1532435691 ,1532435691),
-('Mr.','admin','admin',1532435691 ,1532435691),
-('Mrs.','admin','admin',1532435691 ,1532435691),
-('Ms.','admin','admin',1532435691 ,1532435691),
-('Mx.','admin','admin',1532435691 ,1532435691),
-('Pr.','admin','admin',1532435691 ,1532435691),
-('Prof.','admin','admin',1532435691 ,1532435691),
-('Sir','admin','admin',1532435691 ,1532435691),
-('Sr.','admin','admin',1532435691 ,1532435691);
+('Br.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Dr.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Fr.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Lady','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('M.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Master','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Miss','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Mr.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Mrs.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Ms.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Mx.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Pr.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Prof.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Sir','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00'),
+('Sr.','admin','admin','2018-07-24T12:34:51+00:00' ,'2018-07-24T12:34:51+00:00');

@@ -2,14 +2,15 @@
 
 ## Key Actors
 
-- Site owner
-- Site manager
-- Tenant
-- Public
-- Prospective tenant
-- Auditor
-- System manager
-- Data manager
+- Site owner => siteOwner
+- Site manager => siteManager
+- Tenant => tenant
+- Public => public
+- Prospective tenant =>
+- Auditor => auditor
+- System manager => systemAdmin
+- Data manager => dataManager
+- Data administrator => dataAdmin
 
 ## User Stories
 

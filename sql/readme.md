@@ -7,7 +7,7 @@ For purposes of data segregation, privacy of information and risk management the
 UK Office for National Statistics (ONS) allocates standard codes for UK geographic and political regions, like county, borough, ward.
 
 ## Data history
-The must be a history of data recorded.
+There must be a history of data recorded.
 
 Historical data should be retained for minimum period in accordance with legislation and business requirements.
 
